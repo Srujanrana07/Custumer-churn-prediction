@@ -51,8 +51,10 @@ Dataset includes demographics, usage patterns, purchase behaviour, and communica
 ```
 
 ## ▶️ How to Run
+```
 pip install -r requirements.txt
 jupyter notebook churn_risk_score_prediction.ipynb
+```
 
 ## 🤝 Contributing
 Contributions are welcome.
