@@ -40,6 +40,7 @@ Dataset includes demographics, usage patterns, purchase behaviour, and communica
 ### 6️⃣ Final Predictions
 
 ## 📦 Project Structure
+```
 .
 ├── README.md
 ├── requirements.txt
@@ -47,6 +48,7 @@ Dataset includes demographics, usage patterns, purchase behaviour, and communica
 ├── Dataset
     ├── train.csv
     └── test.csv
+```
 
 ## ▶️ How to Run
 pip install -r requirements.txt
